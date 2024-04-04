@@ -22,12 +22,16 @@ const config = {
         dark: {
           1: "#1c1f2e",
           2: "#161925",
+          3: "#252A41",
+          4: "#1E2757",
         },
         blue: {
           1: "#0e78f9",
         },
         sky: {
           1: "#c9ddff",
+          2: "#ECF0FF",
+          3: "#F5FCFF",
         },
         orange: {
           1: "#ff742e",
