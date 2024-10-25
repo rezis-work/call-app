@@ -15,9 +15,9 @@ Foom is a video calling application similar to Zoom that allows users to create 
 
  ## Installation:
  To run the Foom project locally, follow these steps:
-1.Clone the repository
-2.Navigate to the project folder
-3.Install dependecies
-4.Start the application
+- Clone the repository
+- Navigate to the project folder
+- Install dependecies
+- Start the application
 
 
